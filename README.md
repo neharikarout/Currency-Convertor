@@ -1,5 +1,8 @@
 # React Currency Converter
+<<<<<<< HEAD
 website link : https://neharikarout.github.io/currency-convertor/
+=======
+>>>>>>> f4dc5db2ca2f0f1d200eaa087fa2824af152430e
 
 ## Description
 Built a dynamic currency converter in React using Vite and Tailwind CSS. Explored advanced concepts like custom hooks and state management. Supports multiple currency codes with a convenient swap function.
